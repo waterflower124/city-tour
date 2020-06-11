@@ -1,0 +1,17 @@
+//
+//  CityBud.pch
+//  CityBud
+//
+//  Created by Vikas Singh on 25/01/18.
+//  Copyright © 2018 iGlobsyn Technologies. All rights reserved.
+//
+
+#ifndef CityBud_pch
+#define CityBud_pch
+
+#import "Constants.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* CityBud_pch */
